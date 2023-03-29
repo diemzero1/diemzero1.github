@@ -134,7 +134,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "http://fb.com/me.diemptit";
+            window.location = "http://fb.com";
           },
     }).then((result) => {
       // if (result.value) {
