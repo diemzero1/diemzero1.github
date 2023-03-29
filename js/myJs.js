@@ -3,7 +3,7 @@ const textConfig = {
   text2: "Ui ai mà xinh thế nhỉ",
   text3: "Chúc cậu luôn cute nha!!! ._.",
   text4: "Chúc cậu luôn luôn xinh đẹp và hạnh phúc nhé!!!",
-  text5: "Cậu tuyệt vời lắm á",
+  text5: "Nhấn zoo đây đi",
   text6: "Cậu 10 điểm <3",
   
   
